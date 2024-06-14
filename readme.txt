@@ -1,1 +1,1 @@
-JKLE FFJKLWKFWEJHFHWEFHNWEFWEFWLE
+Задание для самостоятельной работы
