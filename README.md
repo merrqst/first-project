@@ -1,3 +1,2 @@
-# H1 **«аголовок первого уровн€,   --- самый большой.**
+# H1 **My name is Lev. I'm studying to be a programmer. We are currently exploring ~~GitHub~~**
 
-# H6 **«аголовок** ~~первого уровн€,~~ самый маленький.
